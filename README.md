@@ -1,6 +1,7 @@
 # Kubernetes
 
 [![Submit Queue Widget]][Submit Queue] [![GoDoc Widget]][GoDoc] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshovanmaity%2Fkubernetes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshovanmaity%2Fkubernetes?ref=badge_shield)
 
 <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="100">
 
@@ -84,3 +85,7 @@ That said, if you have questions, reach out to us
 [troubleshooting guide]: https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/README.md?pixel)]()
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshovanmaity%2Fkubernetes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshovanmaity%2Fkubernetes?ref=badge_large)
